@@ -36,7 +36,7 @@ class TouchbleView: UIView {
     
     // Called when view is tapped
     @objc func handleTap(tap: UITapGestureRecognizer) {
-        print("Tapped")
+//        print("Tapped")
         tappedtapped?()
         
     }
